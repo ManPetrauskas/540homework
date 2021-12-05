@@ -7,3 +7,4 @@ Bugs:
   
 Notes:
   - Messy code structure
+  - Currently a static link is used, not selecting custom date depending on local time as it should
